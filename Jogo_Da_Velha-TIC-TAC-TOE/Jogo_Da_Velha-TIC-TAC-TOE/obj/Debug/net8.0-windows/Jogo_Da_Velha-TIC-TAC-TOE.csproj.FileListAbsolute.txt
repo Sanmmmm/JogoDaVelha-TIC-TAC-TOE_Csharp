@@ -1,0 +1,16 @@
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\bin\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.exe
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\bin\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.deps.json
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\bin\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.runtimeconfig.json
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\bin\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.dll
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\bin\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.pdb
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha_TIC_TAC_TOE.Form1.resources
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.csproj.GenerateResource.cache
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.AssemblyInfoInputs.cache
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.AssemblyInfo.cs
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.dll
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\refint\Jogo_Da_Velha-TIC-TAC-TOE.dll
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.pdb
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\Jogo_Da_Velha-TIC-TAC-TOE.genruntimeconfig.cache
+C:\Users\sanmg\source\repos\Jogo_Da_Velha-TIC-TAC-TOE\Jogo_Da_Velha-TIC-TAC-TOE\obj\Debug\net8.0-windows\ref\Jogo_Da_Velha-TIC-TAC-TOE.dll

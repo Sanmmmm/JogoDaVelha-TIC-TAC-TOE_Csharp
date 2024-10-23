@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Jogo_Da_Velha-TIC-TAC-TOE/1.0.0": {
+        "runtime": {
+          "Jogo_Da_Velha-TIC-TAC-TOE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jogo_Da_Velha-TIC-TAC-TOE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
